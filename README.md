@@ -11,6 +11,12 @@ This is a team project:
 - **Frontend (me):** Design pages and handle navigation between pages  
 - **Backend (teammate):** Integrate Firebase for Q&A data storage and user authentication
 
+## Award
+
+- Honorable Mention, Campus Programming & Creative Challenge – Mobile Innovation Category (2025)  
+  （校內「程式設計暨創意挑戰賽－行動創意挑戰組」佳作）
+
+
 ## Features
 
 *The following images are exported from the original project presentation and illustrate the feature design and user flow.*
